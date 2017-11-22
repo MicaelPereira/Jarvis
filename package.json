@@ -1,0 +1,23 @@
+{
+  "name": "jarvis",
+  "version": "1.0.0",
+  "description": "An assistant",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MicaelPereira/Jarvis.git"
+  },
+  "author": "Micael Pereira",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MicaelPereira/Jarvis/issues"
+  },
+  "homepage": "https://github.com/MicaelPereira/Jarvis#readme",
+  "dependencies": {
+    "botbuilder": "^3.12.0",
+    "restify": "^6.3.4"
+  }
+}
